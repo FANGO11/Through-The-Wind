@@ -6,6 +6,10 @@ New UI
 
 Optimized Some Levels And UI
 
-Added Scroll Sensitivity
+Added Scroll Sensitivity (For Windows)
+
+Added Orientation Controll (For Android)
+
+Removed Resolution From Android
 
 Fixed Some Bugs;
