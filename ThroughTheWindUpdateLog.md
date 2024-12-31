@@ -12,4 +12,6 @@ Added Orientation Controll (For Android)
 
 Removed Resolution From Android
 
-Fixed Some Bugs;
+Removed Nickname And Enable Nickname Settings
+
+Fixed Some Bugs
