@@ -40,61 +40,33 @@ Spanish - UnaiYT
 # Crown Sounds - ttt
 # Level Information
 | Level Name | Designer | Music |
-|------------|----------|-------|
 | Beginning | FANGO | Łukasz Michalski - The Beginning |
-|-----------|-------|----------------------------------|
 | Satring | FANGO | DJVI - Base After Base |
-|---------|-------|------------------------|
 | Ume | FANGO | Wisp X - Ume |
-|-----|-------|--------------|
 | Origin | FANGO | Willim x Peter Li - Origin |
-|--------|-------|----------------------------|
 | Sky | TechNewVideo | Reatch - Funk City |
-|-----|--------------|--------------------|
 | Spring | FANGO | Kan R Gao - Going Home |
-|--------|-------| -----------------------|
 | Deep In The Mountains | FANGO | Chilling (Outro) - Chinpo (Edited) |
-|-----------------------|-------|------------------------------------|
 | Summer Days P4 | GP0108 | 傅许 - Summer Fantasy |
-|----------------|--------|----------------------|
 | Vinicunca Forest | Manatite & NtyElias111 | Magic Journey - Vinicunca |
-|------------------|------------------------|---------------------------|
 | Cloud | NtyElias & GP0108 | CheetahMobile - Cloud |
-|-------|-------------------|-----------------------|
 | Alley  | 舞线Faded | CheetahMobile - Alley |
-|--------|----------|-----------------------|
 | Sunset | 舞线Faded | CMJ - Sunset |
-|--------|----------|--------------|
 | Wind Trail | FANGO | 万能日记 -  风的小径 |
-|------------|-------| -------------------|
 | Elixir | Loxfullsce_苿 | Lime - Elixir |
-|--------|---------------|---------------|
 | Storm | UnaiYT & FANGO | Azure - Storm Remix |
-|-------|----------------|---------------------|
 | Pier In The Rain | CXY-辰 | 鲨鲨 - 人鱼的眼泪 |
-|------------------|--------|-----------------|
 | Time Machine | FANGO | Waterflame - Time Machine |
-|--------------|-------|---------------------------|
 | Winter Of Doubt | Dju de la va | Boombit - Winter Of Doubt |
-|-----------------|--------------|---------------------------|
 | Moment Of Peace | Dju de la va | Olafur Arnalds -  This Place Is A Shelter |
-|-----------------|--------------|-------------------------------------------|
 | Down Of The Nature | Dju de la va | Tobu - Mesmerize |
-|--------------------|--------------|------------------|
 | Thermal Cube | Assassin | FUNSHDD - ??? |
-|--------------|----------|---------------|
 | Earth Vein | Tatajuo | Mark Petrie - Premonition |
-|------------|---------|---------------------------|
 | Under The Sea | FANGO | Jannik - Under The Sea |
-|---------------|-------|------------------------|
 | By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
-|--------------|-------|--------------------------------------------------|
 | Rock Thing | FANGO | Creo - Rock Thing |
-|------------|-------|-------------------|
 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
-|-----------|---------------|-----------------|
 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
-|--------------------------------------------------------|
 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
 # Follow US:
 
