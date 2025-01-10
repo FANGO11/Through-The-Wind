@@ -39,36 +39,36 @@ Spanish - UnaiYT
 
 # Crown Sounds - ttt
 # Level Information
-| Level Name | Designer | Music |
-|------------|----------|-------|
-| Beginning | FANGO | Łukasz Michalski - The Beginning |
-| Satring | FANGO | DJVI - Base After Base |
-| Ume | FANGO | Wisp X - Ume |
-| Origin | FANGO | Willim x Peter Li - Origin |
-| Sky | TechNewVideo | Reatch - Funk City |
-| Spring | FANGO | Kan R Gao - Going Home |
-| Deep In The Mountains | FANGO | Chilling (Outro) - Chinpo (Edited) |
-| Summer Days P4 | GP0108 | 傅许 - Summer Fantasy |
-| Vinicunca Forest | Manatite & NtyElias111 | Magic Journey - Vinicunca |
-| Cloud | NtyElias & GP0108 | CheetahMobile - Cloud |
-| Alley  | 舞线Faded | CheetahMobile - Alley |
-| Sunset | 舞线Faded | CMJ - Sunset |
-| Wind Trail | FANGO | 万能日记 -  风的小径 |
-| Elixir | Loxfullsce_苿 | Lime - Elixir |
-| Storm | UnaiYT & FANGO | Azure - Storm Remix |
-| Pier In The Rain | CXY-辰 | 鲨鲨 - 人鱼的眼泪 |
-| Time Machine | FANGO | Waterflame - Time Machine |
-| Winter Of Doubt | Dju de la va | Boombit - Winter Of Doubt |
-| Moment Of Peace | Dju de la va | Olafur Arnalds -  This Place Is A Shelter |
-| Down Of The Nature | Dju de la va | Tobu - Mesmerize |
-| Thermal Cube | Assassin | FUNSHDD - ??? |
-| Earth Vein | Tatajuo | Mark Petrie - Premonition |
-| Under The Sea | FANGO | Jannik - Under The Sea |
-| By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
-| Rock Thing | FANGO | Creo - Rock Thing |
-| Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
-| Anniversary | FANGO | CheetahMobile - Mechanical Power |
-| Rain | FANGO | Rabpit - Rainy Memories (Edited) |
+| Number | Level Name | Designer | Music |
+|----|------------|----------|-------|
+| 1  | Beginning | FANGO | Łukasz Michalski - The Beginning |
+| 2  | Satring | FANGO | DJVI - Base After Base |
+| 3  | Ume | FANGO | Wisp X - Ume |
+| 4  | Origin | FANGO | Willim x Peter Li - Origin |
+| 5  | Sky | TechNewVideo | Reatch - Funk City |
+| 6  | Spring | FANGO | Kan R Gao - Going Home |
+| 7  | Deep In The Mountains | FANGO | Chilling (Outro) - Chinpo (Edited) |
+| 8  | Summer Days P4 | GP0108 | 傅许 - Summer Fantasy |
+| 9  | Vinicunca Forest | Manatite & NtyElias111 | Magic Journey - Vinicunca |
+| 10 | Cloud | NtyElias & GP0108 | CheetahMobile - Cloud |
+| 11 | Alley  | 舞线Faded | CheetahMobile - Alley |
+| 12 | Sunset | 舞线Faded | CMJ - Sunset |
+| 13 | Wind Trail | FANGO | 万能日记 -  风的小径 |
+| 14 | Elixir | Loxfullsce_苿 | Lime - Elixir |
+| 15 | Storm | UnaiYT & FANGO | Azure - Storm Remix |
+| 16 | Pier In The Rain | CXY-辰 | 鲨鲨 - 人鱼的眼泪 |
+| 17 | Time Machine | FANGO | Waterflame - Time Machine |
+| 18 | Winter Of Doubt | Dju de la va | Boombit - Winter Of Doubt |
+| 19 | Moment Of Peace | Dju de la va | Olafur Arnalds -  This Place Is A Shelter |
+| 20 | Down Of The Nature | Dju de la va | Tobu - Mesmerize |
+| 21 | Thermal Cube | Assassin | FUNSHDD - ??? |
+| 22 | Earth Vein | Tatajuo | Mark Petrie - Premonition |
+| 23 | Under The Sea | FANGO | Jannik - Under The Sea |
+| 24 | By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
+| 25 | Rock Thing | FANGO | Creo - Rock Thing |
+| 26 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
+| 27 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
+| 28 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
 # Follow US:
 
 YouTube: https://www.youtube.com/channel/UCnwy6eaqRr
