@@ -90,11 +90,8 @@ Spanish - UnaiYT
 | By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
 |--------------|-------|--------------------------------------------------|
 | Rock Thing | FANGO | Creo - Rock Thing |
-|------------|-------|-------------------|
 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
-|-----------|---------------|-----------------|
 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
-|-------------|-------|----------------------------------|
 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
 # Follow US:
 
