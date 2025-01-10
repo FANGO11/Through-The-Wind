@@ -94,7 +94,7 @@ Spanish - UnaiYT
 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
 |-----------|---------------|-----------------|
 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
-|-------------|-------|----------------------------------|
+|--------------------------------------------------------|
 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
 # Follow US:
 
