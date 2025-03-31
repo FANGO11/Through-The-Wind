@@ -56,21 +56,23 @@ Spanish - UnaiYT
 | 12 | Alley  | 舞线Faded | CheetahMobile - Alley |
 | 13 | Sunset | 舞线Faded | CMJ - Sunset |
 | 14 | Wind Trail | FANGO | 万能日记 -  风的小径 |
-| 15 | Elixir | Loxfullsce_苿 | Lime - Elixir |
-| 16 | Storm | UnaiYT & FANGO | Azure - Storm Remix |
-| 17 | Pier In The Rain | CXY-辰 | 鲨鲨 - 人鱼的眼泪 |
-| 18 | Time Machine | FANGO | Waterflame - Time Machine |
-| 19 | Winter Of Doubt | Dju de la va | Boombit - Winter Of Doubt |
-| 20 | Moment Of Peace | Dju de la va | Olafur Arnalds -  This Place Is A Shelter |
-| 21 | Down Of The Nature | Dju de la va | Tobu - Mesmerize |
-| 22 | Thermal Cube | Assassin | FUNSHDD - ??? |
-| 23 | Earth Vein | Tatajuo | Mark Petrie - Premonition |
-| 24 | Under The Sea | FANGO | Jannik - Under The Sea |
-| 25 | By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
-| 26 | Rock Thing | FANGO | Creo - Rock Thing |
-| 27 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
-| 28 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
-| 29 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
+| 15 | Paradise Of Delicacy | TCT | CheetahMobile - Delicacy Temptation |
+| 16 | Plains | TCT | Chronos - Plains Epic Remix |
+| 17 | Elixir | Loxfullsce_苿 | Lime - Elixir |
+| 18 | Storm | UnaiYT & FANGO | Azure - Storm Remix |
+| 19 | Pier In The Rain | CXY-辰 | 鲨鲨 - 人鱼的眼泪 |
+| 20 | Time Machine | FANGO | Waterflame - Time Machine |
+| 21 | Winter Of Doubt | Dju de la va | Boombit - Winter Of Doubt |
+| 22 | Moment Of Peace | Dju de la va | Olafur Arnalds -  This Place Is A Shelter |
+| 23 | Down Of The Nature | Dju de la va | Tobu - Mesmerize |
+| 24 | Thermal Cube | Assassin | FUNSHDD - ??? |
+| 25 | Earth Vein | Tatajuo | Mark Petrie - Premonition |
+| 26 | Under The Sea | FANGO | Jannik - Under The Sea |
+| 27 | By Your Side | FANGO | Calvin Harries (Feat Tom Grennan) - By Your Side |
+| 28 | Rock Thing | FANGO | Creo - Rock Thing |
+| 29 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
+| 30 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
+| 31 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
 # Follow US:
 
 YouTube: https://www.youtube.com/channel/UCnwy6eaqRr
