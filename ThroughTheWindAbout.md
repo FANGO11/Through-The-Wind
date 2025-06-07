@@ -49,7 +49,7 @@ Spanish - UnaiYT
 | 5  | Sky | TechNewVideo | Reatch - Funk City |
 | 6  | Spring | FANGO | Kan R Gao - Going Home |
 | 7  | Spring Day | 一只渣渣QAQ | 邱有句 - 夏の喚く|
-| 8  | Deep In The Mountains | FANGO | Chilling (Outro) - Chinpo (Edited) |
+| 8  | Deep In The Mountains | FANGO | Unknown |
 | 9  | Summer Days P4 | GP0108 | 傅许 - Summer Fantasy |
 | 10  | Vinicunca Forest | Manatite & NtyElias111 | Magic Journey - Vinicunca |
 | 11 | Cloud | NtyElias & GP0108 | CheetahMobile - Cloud |
