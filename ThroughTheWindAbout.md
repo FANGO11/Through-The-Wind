@@ -41,6 +41,7 @@ Chinese Simplified - 杨哥我来了
 Spanish - UnaiYT
 
 # Crown Sounds - ttt
+# Crown Icon Design - SplashTree1015
 # Level Information
 | Number | Level Name | Designer | Music |
 |----|------------|----------|-------|
