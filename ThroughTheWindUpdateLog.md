@@ -1,17 +1,11 @@
-# 1.0.8 A
+# 1.0.9 A
 
-New Levels: Time Machine, Under The Sea
+New Levels: Paradise Of Delicacy, Plains
 
-New UI
+Changed Skin UI, Achievent UI, Search Level UI, Login UI
 
 Optimized Some Levels And UI
 
-Added Scroll Sensitivity (For Windows)
-
-Added Orientation Controll (For Android)
-
-Removed Resolution From Android
-
-Removed Nickname And Enable Nickname Settings
+Added Invisible Skin
 
 Fixed Some Bugs
