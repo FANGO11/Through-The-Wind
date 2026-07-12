@@ -24,6 +24,8 @@ Lesede
 
 杨哥我来了
 
+Neon
+
 UnaiYT
 
 # Translators:      
@@ -34,14 +36,18 @@ Ukrainian - FANGO
 
 Polish - Bezker
 
-Chinese Traditional - 杨哥我来了
+Chinese Traditional - 杨哥我来了 && Neon
 
-Chinese Simplified - 杨哥我来了
+Chinese Simplified - 杨哥我来了 && Neon
 
 Spanish - UnaiYT
 
+Romanian - FANGO
+
+Vietnamese - SplashTree
+
 # Crown Sounds - ttt
-# Crown Icon Design - SplashTree1015
+# Crown Icon Design - SplashTree
 # Level Information
 | Number | Level Name | Designer | Music |
 |----|------------|----------|-------|
@@ -54,7 +60,7 @@ Spanish - UnaiYT
 | 7  | Spring Day | 一只渣渣QAQ | 邱有句 - 夏の喚く|
 | 8  | Deep In The Mountains | FANGO | Unknown |
 | 9  | Summer Days P4 | GP0108 | 傅许 - Summer Fantasy |
-| 10  | Vinicunca Forest | Manatite & NtyElias111 | Magic Journey - Vinicunca |
+| 10  | Vinicunca Forest | Manatite & NtyElias | Magic Journey - Vinicunca |
 | 11 | Cloud | NtyElias & GP0108 | CheetahMobile - Cloud |
 | 12 | Alley  | 舞线Faded | CheetahMobile - Alley |
 | 13 | Sunset | 舞线Faded | CMJ - Sunset |
@@ -76,6 +82,8 @@ Spanish - UnaiYT
 | 29 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
 | 30 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
 | 31 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
+| 32 | DataErr0r | NtyEllias | Cosmograph - DATAERR0R |
+| 33 | Lone Traveler | Ariseform | CelDro - Far Away |
 # Follow US:
 
 YouTube: https://www.youtube.com/channel/UCnwy6eaqRr
