@@ -54,6 +54,10 @@ Thai - Banana Oreo
 
 German - ttt
 
+Belarussian - Wextikit
+
+Greek -
+
 # Crown Sounds - ttt
 # Crown Icon Design - SplashTree
 # Level Information
@@ -90,7 +94,7 @@ German - ttt
 | 29 | Trap Crow | Loxfullsce_苿 | Puru - TrapCrow |
 | 30 | Anniversary | FANGO | CheetahMobile - Mechanical Power |
 | 31 | Rain | FANGO | Rabpit - Rainy Memories (Edited) |
-| 32 | DataErr0r | NtyEllias | Cosmograph - DATAERR0R |
+| 32 | DataErr0r | NtyElias | Cosmograph - DATAERR0R |
 | 33 | Lone Traveler | Ariseform | CelDro - Far Away |
 # Follow US:
 
