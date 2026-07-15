@@ -46,6 +46,10 @@ Romanian - FANGO
 
 Vietnamese - SplashTree
 
+Indonesian - rnv
+
+Filipino - NtyElias
+
 # Crown Sounds - ttt
 # Crown Icon Design - SplashTree
 # Level Information
