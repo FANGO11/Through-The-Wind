@@ -50,6 +50,10 @@ Indonesian - rnv
 
 Filipino - NtyElias
 
+Thai - Banana Oreo
+
+German - ttt
+
 # Crown Sounds - ttt
 # Crown Icon Design - SplashTree
 # Level Information
