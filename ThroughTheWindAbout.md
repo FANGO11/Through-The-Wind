@@ -46,7 +46,7 @@ Romanian - FANGO
 
 Vietnamese - SplashTree
 
-Indonesian - rnv
+Indonesian - rvn
 
 Filipino - NtyElias
 
@@ -56,7 +56,11 @@ German - ttt
 
 Belarussian - Wextikit
 
-Greek -
+Greek - Sylva
+
+Arabian - Jisa
+
+Kazakh - Icehot & Дух
 
 # Crown Sounds - ttt
 # Crown Icon Design - SplashTree
