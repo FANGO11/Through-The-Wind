@@ -52,9 +52,9 @@ Filipino - NtyElias
 
 Thai - Banana Oreo
 
-German - ttt
-
 Belarussian - Wextikit
+
+German - ttt
 
 Greek - Sylva
 
